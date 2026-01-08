@@ -6,3 +6,7 @@ Networking Communications, B.S, Bowie State University
 Project 1
 Project 2
 Project 3
+## More about me
+Work Experience
+Leadership Experience
+
