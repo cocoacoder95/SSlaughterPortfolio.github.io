@@ -1,6 +1,5 @@
 title: Selena Slaughter's Portfolio
-#logo:
-description: Hello I am currently an IT specalist with a passion for Data Analytics. I have experience with BASH and Linux scripting, SQL, Python and C++. 
-Below are some examples of personal projects I have completed. 
+logo: cocoacoder95/SSlaughterPortfolio.github.io/ProfileImageTemp.png
+description: "Below are examples of projects I have done" 
 show_downloads: true
 theme: jekyll-theme-merlot
